@@ -1,0 +1,120 @@
+{
+    "appName": "Активности",
+    "calendarBottomItem": "Календарь",
+    "contactsBottomItem": "Контакты",
+    "settingsBottomItem": "Настройки",
+    "search": "Поиск",
+    "settingsAllActivities": "Все активности",
+    "settingsChangeUsername": "Изменить имя",
+    "settingsAboutApp": "О приложении",
+    "settingsExportContactsBtn": "Экспортировать контакты",
+    "activityCreator": "Создатель активности",
+    "activityName": "Название активности",
+    "create": "Создать",
+    "cancel": "Отмена",
+    "exportContactsTitle": "Экспортировать контакты",
+    "exportContactsContent": "Экспорт контактов в один из популярных форматов",
+    "createEventTitle": "Создание активности",
+    "activityHint": "Активность",
+    "phoneHint": "Номер телефона",
+    "firstNameHint": "Имя",
+    "lastNameHint": "Фамилия",
+    "extraOptions": "Дополнительная информация",
+    "countOfHumansHint": "Количество людей",
+    "noteHint": "Заметка",
+    "dateOfBirthday": "Дата рождения",
+    "emailHint": "Почта",
+    "submitButton": "Создать",
+    "loginButton": "Вход",
+    "createNewEventButton": "Создать новую активность!",
+    "contactPageTemplate": "Контакт {firstName} {lastName}",
+    "@contactPageTemplate": {
+        "placeholders": {
+            "firstName": {},
+            "lastName": {}
+        }
+    },
+    "pleaseCreateAtLastOneActivity": "Пожалуйста, создайте хотя бы одно действие",
+    "pleaseCreateAtLastOneStatus": "Пожалуйста, создайте хотя бы один статус",
+    "status": "Статус",
+    "@status": {
+        "description": "Status of activity"
+    },
+    "statusCreator": "Создатель статуса",
+    "statusName": "Название статуса",
+    "statusesTitle": "Статусы",
+    "errorDontHaveTypeActivity": "Пожалуйста, укажите тип активности",
+    "errorDontHaveNumberPhoneOfClient": "Пожалуйста, укажите номер телефона",
+    "errorDontHaveFirstNameOfClient": "Пожалуйста, введите имя",
+    "errorDontHaveLastNameOfClient": "Пожалуйста, введите фамилию",
+    "errorDontHaveCountOfHumansOnActivity": "Пожалуйста, укажите количество людей",
+    "errorPleaseEntryValue": "Пожалуйста, введите текст",
+    "@errorPleaseEntryValue": {
+        "description": "Use it when user dont write anything"
+    },
+    "changesTitle": "Изменения",
+    "@changesTitle": {
+        "description": "Title of screen, changes of managers on activity"
+    },
+    "addNewContactButton": "Добавить новый контакт",
+    "@addNewContactButton": {
+        "description": "Button on AppBar for adding new contact without activity making"
+    },
+    "help": "Помощь",
+    "passwordHint": "Пароль",
+    "confirmDeleteClientTitle": "Вы уверены?",
+    "confirmDeleteClientContent": "Вы уверены, что хотите удалить этого клиента?",
+    "buttonWithConfirm": "Да, подтвердить.",
+    "youDontHaveContacts": "У Вас нет контактов",
+    "thisClientDoesNotHaveOrders": "У этого клиента нет заказов.",
+    "createClientTitle": "Создать новый контакт",
+    "eventEditingTitle": "Редактировать активность",
+    "currentlyNoHaveChangesTitle": "Нет изменений",
+    "errorFirebaseUserNotFound": "Пользователь с таким email не найден. ",
+    "errorFirebaseWrongPassword": "Введён неверный пароль",
+    "updaterNewVersionAvalivable": "Новая версия доступна {verisonName}!",
+    "@updaterNewVersionAvalivable": {
+        "placeholders": {
+            "verisonName": {}
+        }
+    },
+    "updaterInstallButton": "Установить",
+    "settingsCheckUpdates": "Проверить обновления",
+    "settingsUpdatesNotFound": "Обновления не найдены",
+    "settingsLogoutButton": "Выйти",
+    "activityOwner": "Активность создана {owner}",
+    "@activityOwner": {
+        "placeholders": {
+            "owner": {}
+        }
+    },
+    "calendarEventPropsUID": "ID",
+    "calendarEventPropsNameOfActivity": "Название активности",
+    "calendarEventPropsClientId": "Идентификатор клиента",
+    "calendarEventPropsCountOfHumans": "Количество людей",
+    "calendarEventPropsDateOfActivity": "Название активности",
+    "calendarEventPropsExcatDayOfActivity": "Время активности",
+    "calendarEventPropsExpireTime": "Время окончания",
+    "areYouSure": "Вы уверены, что хотите удалить {nameOfActivity} на {excatDayOfActivity}?",
+    "@areYouSure": {
+        "placeholders": {
+            "nameOfActivity": {},
+            "excatDayOfActivity": {}
+        }
+    },
+    "delete": "Удалить",
+    "no": "Нет.",
+    "yes": "Да.",
+    "addSubNumber": "Добавить номер",
+    "extraNumberPhones": "Дополнительные номера телефонов",
+    "deleteThisSubnumber": "Удалить этот дополнительный номер {number}",
+    "@deleteThisSubnumber": {
+        "placeholders": {
+            "number": {}
+        }
+    },
+    "clientFirstName": "Имя ",
+    "clientPhone": "Номер телефона ",
+    "clientSecondaryPhone": "Дополнительный телефон ",
+    "clientEdit": "Редактировать"
+}

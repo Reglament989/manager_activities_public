@@ -1,0 +1,120 @@
+{
+    "appName": "Активності",
+    "calendarBottomItem": "Календар",
+    "contactsBottomItem": "Контакти",
+    "settingsBottomItem": "Налаштування",
+    "search": "Пошук",
+    "settingsAllActivities": "Всі активності",
+    "settingsChangeUsername": "Змінити ім'я користувача",
+    "settingsAboutApp": "Про додаток",
+    "settingsExportContactsBtn": "Експортувати контакти",
+    "activityCreator": "Створення активності",
+    "activityName": "Назва активності",
+    "create": "Створити",
+    "cancel": "Скасувати",
+    "exportContactsTitle": "Експортувати контакти",
+    "exportContactsContent": "Експорт контактів в один із популярних форматів",
+    "createEventTitle": "Створити активність",
+    "activityHint": "Активність",
+    "phoneHint": "Номер телефону",
+    "firstNameHint": "Ім'я",
+    "lastNameHint": "Прізвище",
+    "extraOptions": "Додаткова інформація",
+    "countOfHumansHint": "Кількість людей",
+    "noteHint": "Нотатка",
+    "dateOfBirthday": "Дата народження",
+    "emailHint": "Ел. пошта",
+    "submitButton": "Створити",
+    "loginButton": "Вхід",
+    "createNewEventButton": "Створити нову активність!",
+    "contactPageTemplate": "Контакт {firstName} {lastName}",
+    "@contactPageTemplate": {
+        "placeholders": {
+            "firstName": {},
+            "lastName": {}
+        }
+    },
+    "pleaseCreateAtLastOneActivity": "Будь ласка, створіть хоча б одну активність",
+    "pleaseCreateAtLastOneStatus": "Будь ласка, створіть хоча б один статус",
+    "status": "Статус",
+    "@status": {
+        "description": "Status of activity"
+    },
+    "statusCreator": "Створення статусу",
+    "statusName": "Назва статусу",
+    "statusesTitle": "Статуси",
+    "errorDontHaveTypeActivity": "Будь ласка, вкажіть тип активності",
+    "errorDontHaveNumberPhoneOfClient": "Будь ласка, вкажіть номер телефону",
+    "errorDontHaveFirstNameOfClient": "Будь ласка, введіть ім'я",
+    "errorDontHaveLastNameOfClient": "Будь ласка, введіть прізвище",
+    "errorDontHaveCountOfHumansOnActivity": "Будь ласка, вкажіть кількість людей",
+    "errorPleaseEntryValue": "Будь ласка, введіть текст",
+    "@errorPleaseEntryValue": {
+        "description": "Use it when user dont write anything"
+    },
+    "changesTitle": "Зміни",
+    "@changesTitle": {
+        "description": "Title of screen, changes of managers on activity"
+    },
+    "addNewContactButton": "Додати новий контакт",
+    "@addNewContactButton": {
+        "description": "Button on AppBar for adding new contact without activity making"
+    },
+    "help": "Допомога",
+    "passwordHint": "Пароль",
+    "confirmDeleteClientTitle": "Ви впевнені?",
+    "confirmDeleteClientContent": "Ви впевнені, що хочете видалити цього клієнта?",
+    "buttonWithConfirm": "Так, підтвердити.",
+    "youDontHaveContacts": "Ви не маєте контактів",
+    "thisClientDoesNotHaveOrders": "Цей клієнт не має замовлень.",
+    "createClientTitle": "Створити новий контакт",
+    "eventEditingTitle": "Редагувати активність",
+    "currentlyNoHaveChangesTitle": "Немає змін",
+    "errorFirebaseUserNotFound": "Користувач з таким email не знайдений. ",
+    "errorFirebaseWrongPassword": "Введено невірний пароль",
+    "updaterNewVersionAvalivable": "Нова версія доступна: {verisonName}!",
+    "@updaterNewVersionAvalivable": {
+        "placeholders": {
+            "verisonName": {}
+        }
+    },
+    "updaterInstallButton": "Встановити",
+    "settingsCheckUpdates": "Перевірити оновлення",
+    "settingsUpdatesNotFound": "Оновлення не знайдено",
+    "settingsLogoutButton": "Вихід із системи",
+    "activityOwner": "Активність створена {owner}",
+    "@activityOwner": {
+        "placeholders": {
+            "owner": {}
+        }
+    },
+    "calendarEventPropsUID": "Ідентифікатор",
+    "calendarEventPropsNameOfActivity": "Назва активності",
+    "calendarEventPropsClientId": "Id клієнта",
+    "calendarEventPropsCountOfHumans": "Кількість людей",
+    "calendarEventPropsDateOfActivity": "Назва активності",
+    "calendarEventPropsExcatDayOfActivity": "Час активності",
+    "calendarEventPropsExpireTime": "Час завершення",
+    "areYouSure": "Ви дійсно хочете видалити {nameOfActivity} на {excatDayOfActivity}?",
+    "@areYouSure": {
+        "placeholders": {
+            "nameOfActivity": {},
+            "excatDayOfActivity": {}
+        }
+    },
+    "delete": "Видалити",
+    "no": "Ні.",
+    "yes": "Так.",
+    "addSubNumber": "Додати номер",
+    "extraNumberPhones": "Додаткові номери телефонів",
+    "deleteThisSubnumber": "Видалити цей додатковий номер {number}",
+    "@deleteThisSubnumber": {
+        "placeholders": {
+            "number": {}
+        }
+    },
+    "clientFirstName": "Ім'я ",
+    "clientPhone": "Номер телефону ",
+    "clientSecondaryPhone": "Додатковий телефон ",
+    "clientEdit": "Редагувати"
+}

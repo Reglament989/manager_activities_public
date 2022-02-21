@@ -1,0 +1,120 @@
+{
+  "appName": "Activities",
+  "calendarBottomItem": "Calendar",
+  "contactsBottomItem": "Contacts",
+  "settingsBottomItem": "Settings",
+  "search": "Search",
+  "settingsAllActivities": "All Activities",
+  "settingsChangeUsername": "Change username",
+  "settingsAboutApp": "About application",
+  "settingsExportContactsBtn": "Export contacts",
+  "activityCreator": "Activity creator",
+  "activityName": "Activity name",
+  "create": "Create",
+  "cancel": "Cancel",
+  "exportContactsTitle": "Export contacts",
+  "exportContactsContent": "Export your contacts to one of popular formats",
+  "createEventTitle": "Create event",
+  "activityHint": "Activity",
+  "phoneHint": "Phone",
+  "firstNameHint": "First name",
+  "lastNameHint": "Last name",
+  "extraOptions": "Extra",
+  "countOfHumansHint": "Count of humans",
+  "noteHint": "Note",
+  "dateOfBirthday": "Date of birthday",
+  "emailHint": "Email",
+  "submitButton": "Submit",
+  "loginButton": "Login",
+  "createNewEventButton": "Create new event!",
+  "contactPageTemplate": "Contact {firstName} {lastName}",
+  "@contactPageTemplate": {
+    "placeholders": {
+      "firstName": {},
+      "lastName": {}
+    }
+  },
+  "pleaseCreateAtLastOneActivity": "Please create at least one activity",
+  "pleaseCreateAtLastOneStatus": "Please create at least one status",
+  "status": "Status",
+  "@status": {
+    "description": "Status of activity"
+  },
+  "statusCreator": "Status creator",
+  "statusName": "Status name",
+  "statusesTitle": "Statuses",
+  "errorDontHaveTypeActivity": "Please specify type of activity",
+  "errorDontHaveNumberPhoneOfClient": "Please set phone number",
+  "errorDontHaveFirstNameOfClient": "Please fill first name",
+  "errorDontHaveLastNameOfClient": "Please fill last name",
+  "errorDontHaveCountOfHumansOnActivity": "Please set count of humans",
+  "errorPleaseEntryValue": "Please enter some text",
+  "@errorPleaseEntryValue": {
+    "description": "Use it when user dont write anything"
+  },
+  "changesTitle": "Changes",
+  "@changesTitle": {
+    "description": "Title of screen, changes of managers on activity"
+  },
+  "addNewContactButton": "Add new contact",
+  "@addNewContactButton": {
+    "description": "Button on AppBar for adding new contact without activity making"
+  },
+  "help": "Help",
+  "passwordHint": "Password",
+  "confirmDeleteClientTitle": "Are you sure?",
+  "confirmDeleteClientContent": "Are you sure you want to delete this client?",
+  "buttonWithConfirm": "Yes, confirm.",
+  "youDontHaveContacts": "You haven't contacts",
+  "thisClientDoesNotHaveOrders": "This client hasn't orders.",
+  "createClientTitle": "Create new contact",
+  "eventEditingTitle": "Edit event",
+  "currentlyNoHaveChangesTitle": "No changes",
+  "errorFirebaseUserNotFound": "No user found with this email. ",
+  "errorFirebaseWrongPassword": "Wrong password entered",
+  "updaterNewVersionAvalivable": "New version avalivable {verisonName}!",
+  "@updaterNewVersionAvalivable": {
+    "placeholders": {
+      "verisonName": {}
+    }
+  },
+  "updaterInstallButton": "Install",
+  "settingsCheckUpdates": "Check updates",
+  "settingsUpdatesNotFound": "Updates not found",
+  "settingsLogoutButton": "Logout",
+  "activityOwner": "Activity created by {owner}",
+  "@activityOwner": {
+    "placeholders": {
+      "owner": {}
+    }
+  },
+  "calendarEventPropsUID": "UID",
+  "calendarEventPropsNameOfActivity": "Name of activity",
+  "calendarEventPropsClientId": "Client id",
+  "calendarEventPropsCountOfHumans": "Count of humans",
+  "calendarEventPropsDateOfActivity": "Date of activity",
+  "calendarEventPropsExcatDayOfActivity": "Time of activity",
+  "calendarEventPropsExpireTime": "Expire time",
+  "areYouSure": "You sure wont delete {nameOfActivity} on {excatDayOfActivity}?",
+  "@areYouSure": {
+    "placeholders": {
+      "nameOfActivity": {},
+      "excatDayOfActivity": {}
+    }
+  },
+  "delete": "Delete",
+  "no": "No.",
+  "yes": "Yes.",
+  "addSubNumber": "Add sub number",
+  "extraNumberPhones": "Extra number phones",
+  "deleteThisSubnumber": "Delete this subnumber {number}",
+  "@deleteThisSubnumber": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "clientFirstName": "First name ",
+  "clientPhone": "Number phone ",
+  "clientSecondaryPhone": "Secondary phone ",
+  "clientEdit": "Edit"
+}
